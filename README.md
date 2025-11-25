@@ -166,20 +166,23 @@ Before publishing to npm, make sure to:
    - Or use: `npm version patch|minor|major`
    - Then: `npm publish`
 
-## Development
+## Contributing
+
+If you want to contribute to this project:
 
 ```bash
+# Clone the repository
+git clone https://github.com/lofee488/siwx.git
+cd siwx
+
 # Install dependencies
 npm install
 
-# Build
-npm run build
-
-# Watch mode
-npm run dev
-
 # Run tests
 npm test
+
+# Build
+npm run build
 ```
 
 ## License
