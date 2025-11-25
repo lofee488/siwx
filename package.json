@@ -1,6 +1,6 @@
 {
   "name": "siwx",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Chain-agnostic authentication library implementing CAIP-122 standard for Sign-In with X (SIWx)",
   "main": "dist/index.cjs",
   "module": "dist/index.js",
